@@ -9,3 +9,6 @@ Content-Type: application/json
   "savory": ["Oatmeal", "Avocado Toast", "Omelette", "Salad"],
   "Sweet": ["Cookie"]
 }
+
+###
+GET http://localhost:5093/breakfasts/3462f1a3-0089-42c9-82fe-44783f8b0e86
