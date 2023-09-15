@@ -1,0 +1,12 @@
+C:\Users\aleks\OneDrive\dev\BuberBreakfast\Buberbreakfast.Contracts\bin\Debug\net7.0\Buberbreakfast.Contracts.deps.json
+C:\Users\aleks\OneDrive\dev\BuberBreakfast\Buberbreakfast.Contracts\bin\Debug\net7.0\Buberbreakfast.Contracts.dll
+C:\Users\aleks\OneDrive\dev\BuberBreakfast\Buberbreakfast.Contracts\bin\Debug\net7.0\Buberbreakfast.Contracts.pdb
+C:\Users\aleks\OneDrive\dev\BuberBreakfast\Buberbreakfast.Contracts\obj\Debug\net7.0\Buberbreakfast.Contracts.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\dev\BuberBreakfast\Buberbreakfast.Contracts\obj\Debug\net7.0\Buberbreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\dev\BuberBreakfast\Buberbreakfast.Contracts\obj\Debug\net7.0\Buberbreakfast.Contracts.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\dev\BuberBreakfast\Buberbreakfast.Contracts\obj\Debug\net7.0\Buberbreakfast.Contracts.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\dev\BuberBreakfast\Buberbreakfast.Contracts\obj\Debug\net7.0\Buberbreakfast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\dev\BuberBreakfast\Buberbreakfast.Contracts\obj\Debug\net7.0\Buberbreakfast.Contracts.dll
+C:\Users\aleks\OneDrive\dev\BuberBreakfast\Buberbreakfast.Contracts\obj\Debug\net7.0\refint\Buberbreakfast.Contracts.dll
+C:\Users\aleks\OneDrive\dev\BuberBreakfast\Buberbreakfast.Contracts\obj\Debug\net7.0\Buberbreakfast.Contracts.pdb
+C:\Users\aleks\OneDrive\dev\BuberBreakfast\Buberbreakfast.Contracts\obj\Debug\net7.0\ref\Buberbreakfast.Contracts.dll
